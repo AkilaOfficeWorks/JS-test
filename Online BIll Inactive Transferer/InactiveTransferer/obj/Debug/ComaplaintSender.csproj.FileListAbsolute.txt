@@ -1,0 +1,11 @@
+D:\Project\ComaplaintSender\ComaplaintSender\bin\Debug\ComaplaintSender.exe.config
+D:\Project\ComaplaintSender\ComaplaintSender\bin\Debug\ComaplaintSender.exe
+D:\Project\ComaplaintSender\ComaplaintSender\bin\Debug\ComaplaintSender.pdb
+D:\Project\ComaplaintSender\ComaplaintSender\obj\Debug\ComaplaintSender.csprojResolveAssemblyReference.cache
+D:\Project\ComaplaintSender\ComaplaintSender\obj\Debug\ComaplaintSender.Properties.Resources.resources
+D:\Project\ComaplaintSender\ComaplaintSender\obj\Debug\ComaplaintSender.csproj.GenerateResource.Cache
+D:\Project\ComaplaintSender\ComaplaintSender\obj\Debug\ComaplaintSender.exe
+D:\Project\ComaplaintSender\ComaplaintSender\obj\Debug\ComaplaintSender.pdb
+D:\Project\SMSSender\ComaplaintSender\bin\Debug\ComaplaintSender.exe.config
+D:\Project\SMSSender\ComaplaintSender\obj\Debug\ComaplaintSender.exe
+D:\Project\SMSSender\ComaplaintSender\obj\Debug\ComaplaintSender.pdb
